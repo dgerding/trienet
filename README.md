@@ -1,3 +1,6 @@
+## THIS IS A FRIENDLY CONTRIBUTION TO GMAMALADZE'S WORK https://github.com/gmamaladze/trienet.git 
+## ALL IT DOES IS ADD .NET CORE 2.1 PROJECTS
+
 [![Build status](https://ci.appveyor.com/api/projects/status/4ruj2ijq2uc0pu2m/branch/master?svg=true)](https://ci.appveyor.com/project/gmamaladze/trienet/branch/master) [![NuGet version](https://badge.fury.io/nu/TrieNet.svg)](https://badge.fury.io/nu/TrieNet)
 
 ![TrieNet - The library provides .NET Data Structures for Prefix String Search and Substring (Infix) Search to Implement Auto-completion and Intelli-sense.](/img/trienet.png)
